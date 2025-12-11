@@ -1,0 +1,17 @@
+
+*.luac
+lua_modules/
+
+
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+
+.DS_Store
+Thumbs.db
+
+*.log
+config.local.lua
